@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021116413046",
+    "project_id": "ai-generations-app",
+    "storage_bucket": "ai-generations-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021116413046:android:4548b18dd74c412e1b1b57",
+        "android_client_info": {
+          "package_name": "com.example.ai_voice_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021116413046-3p5rh2rp7orfn3hdohmhkqm0ui92jgv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6cUaDwUXJ4_FBykD1bpifSlUSqRhrbsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021116413046-3p5rh2rp7orfn3hdohmhkqm0ui92jgv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
