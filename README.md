@@ -1,2 +1,2 @@
 # ai-voice-text-generations
-I create an app with features that includes Text-to-speech, speech-to-text and speech-translate-to-english. Built with Openai api.
+I have developed an app with features that include text-to-speech, speech-to-text, and speech-translate-to-English functionalities, all built using the OpenAI API
